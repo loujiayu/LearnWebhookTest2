@@ -8,6 +8,11 @@
   pointer-events: none;
 }
 
+.input {
+  position: fixed;
+  top: 50%;
+}
+
 .date {
   color: rgb(43, 172, 98);
   position: absolute;
