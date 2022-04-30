@@ -5,7 +5,7 @@ import logo from './logo.jpg';
 import './alibaba-font.css';
 import './App.css';
 
-const within = moment(new Date(new Date() - Math.floor(Math.random()*86400000))).format('MM-DD hh:mm')
+const within = moment(new Date(new Date() - Math.floor(Math.random()*86400000))).format('MM-DD HH:mm')
 
 function App() {
   const [now, setNow] = useState(moment());
@@ -42,7 +42,7 @@ function App() {
       <img src={logo} className="App-logo" alt="logo" />
 
       <div className="date">{date.getMonth() + 1}月{date.getDate()}日</div>
-      <div className="time">{now.format('hh:mm:ss')}</div>
+      <div className="time">{now.format('HH:mm:ss')}</div>
       <div className="locate">{location || '萧山区南都幼儿园'}</div>
       <div className="name">楼*宇</div>
       <div className="within">{within}</div>
