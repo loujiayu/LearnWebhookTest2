@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LearnWebhookTest/static/css/main.8f40961e.css",
-    "main.js": "/LearnWebhookTest/static/js/main.5501b36f.js",
+    "main.css": "/LearnWebhookTest/static/css/main.bf555f28.css",
+    "main.js": "/LearnWebhookTest/static/js/main.d75411a6.js",
     "static/js/787.28cb0dcd.chunk.js": "/LearnWebhookTest/static/js/787.28cb0dcd.chunk.js",
     "static/media/Alibaba-PuHuiTi-Regular.otf": "/LearnWebhookTest/static/media/Alibaba-PuHuiTi-Regular.8e7033dc89a39fa4ac65.otf",
     "static/media/Alibaba-PuHuiTi-Light.otf": "/LearnWebhookTest/static/media/Alibaba-PuHuiTi-Light.a69a038c20e372ecf5fc.otf",
@@ -21,12 +21,12 @@
     "static/media/AlibabaSans-Light.otf": "/LearnWebhookTest/static/media/AlibabaSans-Light.7dbc5e15c5cf20f6c192.otf",
     "static/media/AlibabaSans-LightItalic.otf": "/LearnWebhookTest/static/media/AlibabaSans-LightItalic.c667be23367b30d944b6.otf",
     "index.html": "/LearnWebhookTest/index.html",
-    "main.8f40961e.css.map": "/LearnWebhookTest/static/css/main.8f40961e.css.map",
-    "main.5501b36f.js.map": "/LearnWebhookTest/static/js/main.5501b36f.js.map",
+    "main.bf555f28.css.map": "/LearnWebhookTest/static/css/main.bf555f28.css.map",
+    "main.d75411a6.js.map": "/LearnWebhookTest/static/js/main.d75411a6.js.map",
     "787.28cb0dcd.chunk.js.map": "/LearnWebhookTest/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f40961e.css",
-    "static/js/main.5501b36f.js"
+    "static/css/main.bf555f28.css",
+    "static/js/main.d75411a6.js"
   ]
 }
