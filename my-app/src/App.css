@@ -1,16 +1,23 @@
 .App {
   text-align: center;
+  position: relative;
 }
 
-.App-logo {
-  /* height: 40vmin; */
+img {
   width: 100%;
-  pointer-events: none;
+  height: 100%;
 }
 
 .input {
   position: fixed;
   top: 50%;
+}
+
+.back {
+  /* background-image: url("./logo.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw; */
 }
 
 .date {
@@ -29,7 +36,7 @@
   color: rgb(43, 172, 98);
   position: absolute;
   font-size: 55px;
-  top: 125px;
+  top: 15%;
   width: 60%;
   transform: translateX(-50%);
   font-family: 'AlibabaPuHuiTi-Medium';
@@ -41,7 +48,7 @@
   color: black;
   position: absolute;
   font-size: 17px;
-  top: 28%;
+  top: 29.5%;
   width: 50%;
   transform: translateX(-50%);
   font-family: 'AlibabaPuHuiTi-Medium';
@@ -53,10 +60,10 @@
   color: black;
   position: absolute;
   font-size: 19px;
-  top: 25%;
+  top: 26%;
   width: 60px;
   font-family: 'AlibabaPuHuiTi-Medium';
-  left: 8%;
+  left: 7%;
   background-color: white;
 }
 
@@ -64,11 +71,11 @@
   color: rgba(255, 255, 255, 0.7);
   position: absolute;
   font-size: 17px;
-  top: 61.5%;
+  top: 65%;
   font-weight: 400;
   width: 120px;
   /* font-family: 'AlibabaPuHuiTi-Medium'; */
-  left: 13%;
+  left: 12%;
   background-color: #1E99F9;
 }
 

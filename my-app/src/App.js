@@ -29,7 +29,7 @@ function App() {
           setTmp(e.target.value)
         }}></input>
 
-        <button onClick={() => {setLocation(tmp)}}>go</button>
+        <button onClick={() => {setLocation(tmp || '萧山区南都幼儿园')}}>go</button>
       </div>
     )
   }
@@ -39,13 +39,14 @@ function App() {
 
   return (
     <div className="App">
-      <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
+        <div className="date">{date.getMonth() + 1}月{date.getDate()}日</div>
+        <div className="time">{now.format('HH:mm:ss')}</div>
+        <div className="locate">{location || '萧山区南都幼儿园'}</div>
+        <div className="name">楼*宇</div>
+        <div className="within">{within}</div>
 
-      <div className="date">{date.getMonth() + 1}月{date.getDate()}日</div>
-      <div className="time">{now.format('HH:mm:ss')}</div>
-      <div className="locate">{location || '萧山区南都幼儿园'}</div>
-      <div className="name">楼*宇</div>
-      <div className="within">{within}</div>
+      
     </div>
   );
 }
