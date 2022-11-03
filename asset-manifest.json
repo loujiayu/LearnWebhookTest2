@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LearnWebhookTest/static/css/main.47ea0458.css",
-    "main.js": "/LearnWebhookTest/static/js/main.44291883.js",
+    "main.css": "/LearnWebhookTest/static/css/main.b1456d32.css",
+    "main.js": "/LearnWebhookTest/static/js/main.6fd39af8.js",
     "static/js/787.28cb0dcd.chunk.js": "/LearnWebhookTest/static/js/787.28cb0dcd.chunk.js",
     "static/media/Alibaba-PuHuiTi-Regular.otf": "/LearnWebhookTest/static/media/Alibaba-PuHuiTi-Regular.8e7033dc89a39fa4ac65.otf",
     "static/media/Alibaba-PuHuiTi-Light.otf": "/LearnWebhookTest/static/media/Alibaba-PuHuiTi-Light.a69a038c20e372ecf5fc.otf",
     "static/media/Alibaba-PuHuiTi-Medium.otf": "/LearnWebhookTest/static/media/Alibaba-PuHuiTi-Medium.8d0a5ee186a7e542a7a0.otf",
     "static/media/Alibaba-PuHuiTi-Bold.otf": "/LearnWebhookTest/static/media/Alibaba-PuHuiTi-Bold.fc4f40f33824d7265152.otf",
+    "static/media/image.png": "/LearnWebhookTest/static/media/image.66229a3d92c1ff2e0bc5.png",
     "static/media/Alibaba-PuHuiTi-Heavy.otf": "/LearnWebhookTest/static/media/Alibaba-PuHuiTi-Heavy.cbe5cb7c99d1e404afcf.otf",
-    "static/media/logo.jpg": "/LearnWebhookTest/static/media/logo.5b67fd44c944812f10b7.jpg",
     "static/media/AlibabaSans-Bold.otf": "/LearnWebhookTest/static/media/AlibabaSans-Bold.bfbc12e693e5805307d2.otf",
     "static/media/AlibabaSans-Heavy.otf": "/LearnWebhookTest/static/media/AlibabaSans-Heavy.4a6aa6117d7d7185f415.otf",
     "static/media/AlibabaSans-Medium.otf": "/LearnWebhookTest/static/media/AlibabaSans-Medium.270b7d08ed5f69181b25.otf",
@@ -20,13 +20,14 @@
     "static/media/AlibabaSans-HeavyItalic.otf": "/LearnWebhookTest/static/media/AlibabaSans-HeavyItalic.91e6e710ab9ba2d5fe91.otf",
     "static/media/AlibabaSans-Light.otf": "/LearnWebhookTest/static/media/AlibabaSans-Light.7dbc5e15c5cf20f6c192.otf",
     "static/media/AlibabaSans-LightItalic.otf": "/LearnWebhookTest/static/media/AlibabaSans-LightItalic.c667be23367b30d944b6.otf",
+    "static/media/heyan.png": "/LearnWebhookTest/static/media/heyan.573bc664e7be0ab28188.png",
     "index.html": "/LearnWebhookTest/index.html",
-    "main.47ea0458.css.map": "/LearnWebhookTest/static/css/main.47ea0458.css.map",
-    "main.44291883.js.map": "/LearnWebhookTest/static/js/main.44291883.js.map",
+    "main.b1456d32.css.map": "/LearnWebhookTest/static/css/main.b1456d32.css.map",
+    "main.6fd39af8.js.map": "/LearnWebhookTest/static/js/main.6fd39af8.js.map",
     "787.28cb0dcd.chunk.js.map": "/LearnWebhookTest/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47ea0458.css",
-    "static/js/main.44291883.js"
+    "static/css/main.b1456d32.css",
+    "static/js/main.6fd39af8.js"
   ]
 }
