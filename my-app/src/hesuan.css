@@ -1,0 +1,11 @@
+.hesuan-time {
+  background-color: #f5fafe;
+  color: #999999;
+
+  position: absolute;
+  font-size: 17px;
+  /* font-family: 'AlibabaPuHuiTi-Regular'; */
+  top: 473px;
+  left: 120px;
+  width: 200px;
+}
